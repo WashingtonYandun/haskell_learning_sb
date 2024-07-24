@@ -1,2 +1,6 @@
-# haskell_learning_sb
-Haskell training for fun! and work haha
+# Haskell training
+
+I will be using the "Programming in haskell" book by Graham Huton
+
+-   The answers of the exercises will be uploaded
+-   Some files to learn the language too
